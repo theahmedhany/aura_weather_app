@@ -3,7 +3,7 @@ A new Flutter Application.
 
 
 ## Description
-Aura is a meticulously designed weather application built with Flutter, offering real-time weather updates through seamless API integration. It goes beyond mere forecasts—enhancing the weather-checking experience with an elegant and dynamic user interface.
+Aura is a meticulously designed weather application built with Flutter, offering real-time weather updates through seamless API integration. It goes beyond mere forecasts enhancing the weather-checking experience with an elegant and dynamic user interface.
 
 Whether planning a day, selecting an outfit, or organizing a trip, Aura ensures users stay informed with accurate and up-to-date weather insights.
 
