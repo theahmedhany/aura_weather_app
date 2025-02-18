@@ -33,7 +33,7 @@ Aura provides users with a sophisticated, reliable, and modern weather applicati
 https://github.com/user-attachments/assets/d5fc98bd-df42-4da0-9568-5cb7be936dac
 
 
-#### Explore the application post on LinkedIn: <a target="_blank" href="*************"> Click Here. </a>
+#### Explore the application post on LinkedIn: <a target="_blank" href="https://www.linkedin.com/posts/theahmedhany_dart-flutter-aura-activity-7297578492655755265-A7x6?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD4FnzgB4-BOljZQx1QUyX_wMN1DWKHGx2o"> Click Here. </a>
 
 -----
 
